@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="next_text">Next</string>
+    <string name="previous_text">Previous</string>
+    <string name="correct_ans">That\'s Correct</string>
+    <string name="incorrect_ans">That\'s InCorrect</string>
+
+    <string name="earth_que">The <b> Earth </b> is the fourth planet from the sun.</string>
+    <string name="venus_que"> The planet <b>Venus </b> has no moons.</string>
+    <string name="jupiter_que"> <b>Jupiter </b> is composed mostly of iron.</string>
+    <string name="sun_que">The <b> sun </b>is a star of average size.</string>
+    <string name="eclipse_que">A <b>lunar eclipse</b> occurs when the sun passes.</string>
+</resources>
